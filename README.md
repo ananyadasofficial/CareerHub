@@ -1,0 +1,1 @@
+Welcome to Career Hub, your ultimate destination for finding and applying for jobs in various domains. Career Hub is a comprehensive job portal built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, designed to provide a seamless experience for job seekers and employers alike. It ensures a smooth user experience across devices of all sizes.
