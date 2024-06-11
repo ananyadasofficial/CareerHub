@@ -9,7 +9,7 @@ const Home = () => {
       {/* Welcome Message */}
       <div className="row">
         <div className="col-lg-12 text-center mt-5">
-          <h1 className="text-primary">Welcome to the Job Portal</h1>
+          <h1 className="text-primary">Welcome to the CareerHub</h1>
           <p>Find and apply for your dream job today.</p>
           <div className="col-lg-12 text-center">
             <Link to="/register" className="btn btn-success btn-lg">
